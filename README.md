@@ -6,7 +6,7 @@
  Back-end :- Nodejs,Express
  Database :- MongoDb
 
- Clone this repository by :- gh repo clone thakursachin05/Tryme_Website
+ Clone this repository
 
  How to Setup Environment :-
  1. Install Node
